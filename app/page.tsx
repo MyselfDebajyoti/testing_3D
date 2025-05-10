@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Robot from "@/app/components/Robot";
 
 export default function Home() {
